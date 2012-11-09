@@ -16,7 +16,7 @@ import cpw.mods.fml.common.network.NetworkMod;
 public class ForgeOres {
 
         // The instance of your mod that Forge uses.
-	@Instance("Generic")
+	@Instance("ForgeOres")
 	public static ForgeOres instance;
 	
 	// Says where the client and server 'proxy' code is loaded.
